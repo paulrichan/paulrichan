@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I am currently attending ASU, pursuing a degree in Graphic Information Technology (Full Stack Web Development)
-- 🔭 I’m currently working on my personal portfolio.
-- 🤔 I’m looking for a role as a full stack developer.
-- 📫 How to reach me: paulrichan@icloud.com
+- 🔭 I’m currently working at DSSports as a Senior Full Stack Engineer.
 - ⚡ Fun fact: I used to be a professional baseball player!
 
 ### Skills
@@ -15,7 +13,4 @@
 ![adobeillustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 
-### Soft Skills/Learning
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
