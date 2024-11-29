@@ -1,11 +1,11 @@
-### Hi there 👋
+### WhoAmI
 
 - Proficient in Modern Web Technologies: Skilled in using Next.js, React, Tailwind CSS, TypeScript, and Node.js to create dynamic, responsive, and user-friendly web applications.
-- Infrastructure Management: Proficient in implementing Azure Bicep for Infrastructure as Code, ensuring scalable and maintainable cloud infrastructure.
+- Infrastructure Management: Experience in AWS & Azure, ensuring scalable and maintainable cloud infrastructure.
 - Database Optimization: Experienced in optimizing relational databases for efficiency and performance, ensuring data integrity and speed.
 - Collaborative Team Player: Proven ability to work effectively in team settings, bringing a blend of technical expertise and soft skills to drive project success.
 - Professional Athlete Background: Unique experience as a professional athlete with the Chicago Cubs and Detroit Tigers, demonstrating exceptional teamwork, discipline, and adaptability.
-- 🎓 I am currently attending ASU, pursuing a degree in Graphic Information Technology (Full Stack Web Development) with an expected graduation of December 2024.
+- Attending ASU, pursuing a degree in Graphic Information Technology (Full Stack Web Development) with an expected graduation of December 2024.
 
 ### Skills
 
