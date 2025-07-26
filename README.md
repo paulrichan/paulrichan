@@ -5,7 +5,7 @@
 - Database Optimization: Experienced in optimizing relational databases for efficiency and performance, ensuring data integrity and speed.
 - Collaborative Team Player: Proven ability to work effectively in team settings, bringing a blend of technical expertise and soft skills to drive project success.
 - Professional Athlete Background: Unique experience as a professional athlete with the Chicago Cubs and Detroit Tigers, demonstrating exceptional teamwork, discipline, and adaptability.
-- Attending ASU, pursuing a degree in Graphic Information Technology (Full Stack Web Development) with an expected graduation of December 2024.
+- Graduated Summa Cum Laude from ASU in 2024.
 
 ### Skills
 
